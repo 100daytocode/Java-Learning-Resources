@@ -1,1 +1,3 @@
-* Java-Learning-Resources
+# Java-Learning-Resources
+
+This repo consists of all java ebooks and tutorials. 
